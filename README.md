@@ -18,6 +18,7 @@ Este projeto consiste em uma aplicação Node.js capaz de ler uma planilha do Go
    npm install
 
 - Para iniciar, coloque o comando abaixo no terminal
+    ```bash
     node app.js
 
 Licença
